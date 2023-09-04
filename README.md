@@ -22,7 +22,7 @@ $ conda env create -f environment.yml
 Once you've installed the dependencies, you can activate the `conda` environment as follows:
 
 ```bash
-$ conda activate book tfs
+$ conda activate tfs
 ```
 
 
